@@ -1,5 +1,5 @@
 ---
 ---
-- (TXT/mylog.txt)
-- (https://github.com/vinamyrnauli/os232)
-- (LINKS/)
+[LINKS](LINKS/)
+[LOG](TXT/mylog.txt)
+[GitHub](https://github.com/username/repository)
