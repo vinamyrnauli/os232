@@ -11,6 +11,8 @@ ZCZC W01 60 L11 Assignment #01
 ZCZC W01 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W01 120 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W01 60 L64 Helping a friend (OS related problem)
 ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 110 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 20 L03 Github related
