@@ -4,6 +4,13 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK 3
+
+* [What is mounting and unmounting in Linux | mount and umount commands in linux](https://www.youtube.com/watch?v=PFmYdZBnZY4&ab_channel=StudentGlobe) ---
+In Linux, mounting is the process of making a filesystem available to the system, while unmounting is the process of detaching a mounted filesystem from the directory tree. The mount and umount commands are used for these operations respectively.
+<br>
+<hr>
+
 ### WEEK 2
 
 * [Cyber Security Full Course for Beginner](https://www.youtube.com/watch?v=U_P23SqJaDc&ab_channel=MyCS) ---
