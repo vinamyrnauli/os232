@@ -4,6 +4,23 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK 4
+
+* [Shared Pointer In C++](https://www.youtube.com/watch?v=-dREJCf2ve4&ab_channel=CppNuts)---
+Provides an in-depth explanation of how shared pointers work in C++, including their usage, benefits, and role in memory management1.
+<br>
+<hr>
+
+* [Addressing, Shared Lib, and Pointers](https://www.youtube.com/watch?v=aQgyZGd1MhY&ab_channel=M.AnwarMa%27sum) ---
+Provides an in-depth exploration of memory addressing, the use of shared libraries in programming, and the concept and application of pointers.
+<br>
+<hr>
+
+* [What is mounting and unmounting in Linux | mount and umount commands in linux](https://www.youtube.com/watch?v=PFmYdZBnZY4&ab_channel=StudentGlobe) ---
+In Linux, mounting is the process of making a filesystem available to the system, while unmounting is the process of detaching a mounted filesystem from the directory tree. The mount and umount commands are used for these operations respectively.
+<br>
+<hr>
+
 ### WEEK 3
 
 * [What is mounting and unmounting in Linux | mount and umount commands in linux](https://www.youtube.com/watch?v=PFmYdZBnZY4&ab_channel=StudentGlobe) ---
