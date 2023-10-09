@@ -2,6 +2,20 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W05 60 L00 General, etc.
+ZCZC W05 60 L01 SCELE/Discord related
+ZCZC W05 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 60 L04 GitHub Pages related
+ZCZC W05 12 L05 QUIZ
+ZCZC W05 70 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 100 L09 Weekly Assignments
+ZCZC W05 20 L23 Bash, Regex, SED, AWK.
+ZCZC W05 155 L32 YouTube: watching OS related topics, etc.
+ZCZC W05 45 L64 Helping a friend (OS related problem)
+ZCZC W05 70 L73 Gaming including Board Games.
+ZCZC W05 90 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W05 150 L81 Listening: Radio, Music, etc.
+
 ZCZC W04 60 L00 General, etc.
 ZCZC W04 60 L01 SCELE/Discord related
 ZCZC W04 120 L02 CLASSROOM/ZOOM meetings related
@@ -9,7 +23,7 @@ ZCZC W04 55 L03 GitHub related
 ZCZC W04 60 L04 GitHub Pages related
 ZCZC W04 80 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 100 L09 Weekly Assignments
-ZCZC W02 60 L23 Bash, Regex, SED, AWK.
+ZCZC W04 60 L23 Bash, Regex, SED, AWK.
 ZCZC W04 160 L32 YouTube: watching OS related topics, etc.
 ZCZC W04 90 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W04 120 L81 Listening: Radio, Music, etc.
