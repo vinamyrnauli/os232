@@ -4,6 +4,17 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK 5
+
+* [16.2.2 Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0&ab_channel=MITOpenCourseWare)---
+Based on the video above, Virtual memory is a fundamental concept in computer science that allows a computer to compensate for physical memory shortages by temporarily transferring data from random access memory to disk storage2.
+<br>
+
+* [Virtual Memory: 7 Address Translation Example Walkthrough](https://www.youtube.com/watch?v=6neHHkI0Z0o&ab_channel=DavidBlack-Schaffer) ---
+Tells us how a virtual memory translation works, virtual page number and page offset to physical page number and offset, page table entries on disk, page faults, and 4kB pages vs larger pages.
+<br>
+<hr>
+
 ### WEEK 4
 
 * [Shared Pointer In C++](https://www.youtube.com/watch?v=-dREJCf2ve4&ab_channel=CppNuts)---
