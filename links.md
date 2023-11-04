@@ -4,6 +4,17 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK 6
+
+* [Understanding fork() system call for new process creation](https://www.youtube.com/watch?v=PwxTbksJ2fo)---
+Based on the video above, the "fork()" system call is a crucial method in Unix-based systems for creating new processes. It duplicates the parent process, resulting in two processes – the parent and the child – which can run independently, sharing the same resources and code. This is essential for multitasking and parallel processing in Unix environments.
+<br>
+
+* [Process Management (Processes and Threads)](https://www.youtube.com/watch?v=OrM7nZcxXZU)---
+Tells the difference between processes and threads. Processes are independent and isolated from each other, while threads are interdependent and share the same address space. Processes are more expensive to create and manage, while threads are more lightweight and efficient. Processes have more protection and security, while threads have more performance and responsiveness.
+<br>
+<hr>
+
 ### WEEK 5
 
 * [16.2.2 Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0&ab_channel=MITOpenCourseWare)---
