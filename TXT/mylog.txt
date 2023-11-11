@@ -2,6 +2,22 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W07 30 L00 General, etc.
+ZCZC W07 50 L01 SCELE/Discord related
+ZCZC W07 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W07 15 L05 Quiz related including studying
+ZCZC W07 55 L09 Weekly Assignments
+ZCZC W07 23 L21 Trying something
+ZCZC W07 45 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 10 L41 TXT/mylog.txt related.
+ZCZC W07 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 10 L64 Helping a friend (OS related problem)
+ZCZC W07 5 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W07 90 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W07 35 L83 Pets: feeding, playing, etc
+ZCZC W07 60 L88 Workout/Sport/Exercise/ETC.
+
 ZCZC W06 30 L00 General, etc.
 ZCZC W06 50 L01 SCELE/Discord related
 ZCZC W06 120 L02 CLASSROOM/ZOOM meetings related
