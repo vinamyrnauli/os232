@@ -4,6 +4,17 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK 7
+
+* [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://www.youtube.com/watch?v=UVo9mGARkhQ) ---
+Tells how deadlock in operating systems occurs when processes are blocked, waiting for resources held by others, based on four conditions: mutual exclusion, hold and wait, no preemption, and circular wait. Deadlock handling involves methods such as prevention, avoidance, detection and recovery, or ignorance, each with its own set of advantages and disadvantages.
+<br>
+
+* [Peterson’s Solution](https://www.youtube.com/watch?v=gYCiTtgGR5Q) ---
+Based on the video above, Peterson's solution is a software-based approach for achieving mutual exclusion between processes sharing a resource by using shared memory. It employs a flag and turn variable to coordinate access to the critical section, satisfying essential criteria like mutual exclusion, progress, and bounded waiting, but its reliance on specific atomicity and memory consistency limits its usage in modern computers.
+<br>
+<hr>
+
 ### WEEK 6
 
 * [Understanding fork() system call for new process creation](https://www.youtube.com/watch?v=PwxTbksJ2fo)---
