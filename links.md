@@ -4,6 +4,17 @@ permalink: LINKS/
 
 # LINKS
 
+### WEEK 8
+
+* [7. Chapter 5: Compiling a Cross-Toolchain - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=uggsnHSELos) ---
+Tells every step in detail from beginning to end, such as fetching and writing a bootable host Linux USB in Windows, disk configuration, fetching sources and compiling, configuration and booting the final operating system. The video follows the instructions in the Linux From Scratch 12.0 book.
+<br>
+
+* [6. Chapter 4: Final Preparations - How to build Linux From Scratch (LFS) 12.0](https://www.youtube.com/watch?v=Z5ijC_b2U4o) ---
+Based on the video above, Kernotex gives us step by step on how to create a limited directory layout in the LFS Filesystem, add LFS user, set up the environment, and more. 
+<br>
+<hr>
+
 ### WEEK 7
 
 * [Deadlock in Operating System | 4 Conditions of Deadlocks | Deadlock Handling - Process Management](https://www.youtube.com/watch?v=UVo9mGARkhQ) ---
